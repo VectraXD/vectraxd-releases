@@ -8,7 +8,7 @@ Open GLB, GLTF, OBJ, PLY, IFC, DXF, and Gaussian Splat files instantly — no ac
 
 ## Download & Install
 
-Get the latest version from the [Releases page](https://github.com/VectraXD/vectraxd-preview/releases/latest).
+Get the latest version from the [Releases page](https://github.com/VectraXD/vectraxd-releases/releases/latest).
 
 ### macOS
 
@@ -137,7 +137,7 @@ The app requires a network connection on first run to register the device. Ensur
 
 ## Feedback & Issues
 
-Report bugs or request features on the [Issues page](https://github.com/VectraXD/vectraxd-preview/issues).
+Report bugs or request features on the [Issues page](https://github.com/VectraXD/vectraxd-releases/issues).
 
 ---
 
