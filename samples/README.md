@@ -16,5 +16,5 @@ The full sample pack (adds **Flight Helmet**, a detailed PBR model, and **A Beau
 
 ## Licenses
 
-These files are **not** covered by this repository's MIT license. Each keeps its original license, listed above and in
-[CREDITS.md](../CREDITS.md). Attribution is required when you reuse a CC BY file.
+Each file keeps its original license, listed above and in [CREDITS.md](../CREDITS.md). See section 3 of the repository's
+[LICENSE](../LICENSE). Attribution is required when you reuse a CC BY file.
