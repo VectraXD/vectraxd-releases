@@ -4,6 +4,48 @@
 
 Open GLB, GLTF, OBJ, PLY, IFC, DXF, and Gaussian Splat files instantly — no account required, no cloud upload.
 
+![VectraXD Preview showing a Gaussian Splat scene](images/screenshots/01-gaussian-splats-natively.png)
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/screenshots/02-beautiful-by-default.png" alt="Textured glTF model with studio lighting"></td>
+    <td><img src="images/screenshots/03-textures-that-shine.png" alt="PBR materials: leather, glass and metal"></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshots/04-open-bim-models-instantly.png" alt="IFC building model"></td>
+    <td><img src="images/screenshots/05-every-material-true-to-life.png" alt="Clearcoat, fabric and chrome materials"></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshots/06-from-buildings-to-cities.png" alt="City model"></td>
+    <td><img src="images/screenshots/07-cad-drawings-too.png" alt="DXF drawing in light mode"></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshots/08-characters-and-game-assets.png" alt="Low-poly character model"></td>
+    <td><img src="images/screenshots/09-private-local-free.png" alt="Telecom tower model"></td>
+  </tr>
+</table>
+
+Models shown are credited in [CREDITS.md](CREDITS.md).
+
+---
+
+## Try It with Sample Models
+
+No 3D files at hand? Download one from [`samples/`](samples/) and open it:
+
+| File | Format |
+|---|---|
+| [`Building-Architecture.ifc`](samples/ifc/Building-Architecture.ifc) | IFC (BIM) |
+| [`Building-Hvac.ifc`](samples/ifc/Building-Hvac.ifc) | IFC (BIM, HVAC) |
+| [`ToyCar.glb`](samples/gltf/ToyCar.glb) | GLB |
+| [`Fox.glb`](samples/gltf/Fox.glb) | GLB |
+
+Larger models are in the sample pack on the [Releases page](https://github.com/VectraXD/vectraxd-releases/releases). See [samples/README.md](samples/README.md) for details and licenses.
+
 ---
 
 ## Download & Install
@@ -138,6 +180,13 @@ The app requires a network connection on first run to register the device. Ensur
 ## Feedback & Issues
 
 Report bugs or request features on the [Issues page](https://github.com/VectraXD/vectraxd-releases/issues).
+
+---
+
+## Credits & Licenses
+
+Third-party 3D models used in screenshots and sample files are listed with their authors and licenses in [CREDITS.md](CREDITS.md).
+They keep their original licenses and are not covered by this repository's [LICENSE](LICENSE).
 
 ---
 
