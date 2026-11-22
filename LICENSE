@@ -1,0 +1,36 @@
+Copyright © 2020–2026 Prolincur Technologies LLP. All rights reserved.
+
+This repository distributes VectraXD Preview and its documentation.
+Different parts are covered by different terms:
+
+1. VectraXD Preview application
+   The application binaries published on this repository's Releases page
+   are proprietary software owned by Prolincur Technologies LLP.
+   You may download, install and use them free of charge, for personal or
+   commercial purposes. You may not sell, sublicense, modify, decompile or
+   reverse engineer them, or redistribute them other than by linking to
+   this repository, except where applicable law allows it.
+
+   THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL PROLINCUR TECHNOLOGIES LLP BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH
+   THE APPLICATION OR ITS USE.
+
+   Copies obtained from the Mac App Store are licensed under Apple's
+   Standard License Agreement instead.
+
+2. Documentation and screenshots
+   README files and screenshots are © Prolincur Technologies LLP.
+   You may share them unchanged to describe or review VectraXD Preview.
+
+3. Third-party content
+   Sample files in samples/ and the 3D models shown in screenshots are
+   owned by their authors and keep their original licenses (CC BY 4.0,
+   CC0 1.0 or MIT), as listed in CREDITS.md. Nothing in this notice
+   changes those licenses.
+
+4. Trademarks
+   VectraXD™ is a trademark of Prolincur Technologies LLP. This notice
+   grants no rights to use it.
